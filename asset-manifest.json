@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/rick-and-morty/static/css/main.d7720e8a.chunk.css",
+    "main.js": "/rick-and-morty/static/js/main.0269b0c4.chunk.js",
+    "main.js.map": "/rick-and-morty/static/js/main.0269b0c4.chunk.js.map",
+    "runtime-main.js": "/rick-and-morty/static/js/runtime-main.e26ca37b.js",
+    "runtime-main.js.map": "/rick-and-morty/static/js/runtime-main.e26ca37b.js.map",
+    "static/js/2.b3cdcf92.chunk.js": "/rick-and-morty/static/js/2.b3cdcf92.chunk.js",
+    "static/js/2.b3cdcf92.chunk.js.map": "/rick-and-morty/static/js/2.b3cdcf92.chunk.js.map",
+    "index.html": "/rick-and-morty/index.html",
+    "precache-manifest.dcee461a51455c4b88ca98954848a4b4.js": "/rick-and-morty/precache-manifest.dcee461a51455c4b88ca98954848a4b4.js",
+    "service-worker.js": "/rick-and-morty/service-worker.js",
+    "static/css/main.d7720e8a.chunk.css.map": "/rick-and-morty/static/css/main.d7720e8a.chunk.css.map",
+    "static/js/2.b3cdcf92.chunk.js.LICENSE.txt": "/rick-and-morty/static/js/2.b3cdcf92.chunk.js.LICENSE.txt",
+    "static/media/css.svg": "/rick-and-morty/static/media/css.b1b631b0.svg",
+    "static/media/logo.svg": "/rick-and-morty/static/media/logo.7562dd86.svg",
+    "static/media/material-ui.svg": "/rick-and-morty/static/media/material-ui.ba99aecd.svg",
+    "static/media/react.svg": "/rick-and-morty/static/media/react.9a28da9f.svg",
+    "static/media/wall2.jpg": "/rick-and-morty/static/media/wall2.59075df5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e26ca37b.js",
+    "static/js/2.b3cdcf92.chunk.js",
+    "static/css/main.d7720e8a.chunk.css",
+    "static/js/main.0269b0c4.chunk.js"
+  ]
+}
